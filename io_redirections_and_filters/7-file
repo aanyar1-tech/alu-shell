@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Best School > mac_and_cheese
+echo Best School > '\*\\'"Best School"'\\*$\?\*\*\*\*\*:)'
